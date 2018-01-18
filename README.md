@@ -1,2 +1,2 @@
-# vuex-
-应用vuex进行项目开发
+# vue-project
+应用vue vuex animateui axios进行项目开发
